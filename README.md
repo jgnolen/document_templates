@@ -7,7 +7,7 @@ templates for various documents, forms, reports, etc.
 
 
 
-notes, assignments, and labs
+notes, assignments, research, and labs
 
 
 
